@@ -61,3 +61,6 @@ class LibrosController extends Controller
     }
 
 }
+
+
+// Path: app\Http\Controllers\LibrosController.php
