@@ -22,3 +22,6 @@ class Libro extends Model
 
 
 }
+
+
+// Path: app\Models\libro.php
